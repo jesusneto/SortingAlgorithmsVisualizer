@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SortingAlgorithmsVisualizer" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- <item name="android:windowFullscreen">true</item> -->
+
+<!--        <item name="android:popupMenuStyle">@style/App.PopupMenu</item>-->
+
+<!--        <item name="android:textAppearanceSmall">@style/MenuTextStyle</item>-->
+
+
+    </style>
+
+    <style name="Theme.SortingAlgorithmsVisualizer" parent="Base.Theme.SortingAlgorithmsVisualizer" />
+
+    <style name="App.PopupMenu" parent="Widget.Material3.PopupMenu">
+        <item name="android:background">@drawable/menu_background</item>
+
+        <item name="android:colorBackground">@color/background_gray</item>
+
+
+        <item name="android:textColor">@color/white</item>
+
+        <item name="android:listDivider">@android:color/transparent</item>
+    </style>
+
+    <style name="App.PopupMenuStyle" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:background">@drawable/menu_background</item>
+
+        <item name="android:textColor">@color/white</item>
+
+        <item name="colorControlHighlight">@color/orange_swapping</item>
+    </style>
+
+    <style name="MenuTextStyle" parent="TextAppearance.AppCompat.Menu">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="App.PopupMenu.Text" parent="TextAppearance.AppCompat.Widget.PopupMenu.Large">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="App.PopupMenuItemTextStyle" parent="@style/TextAppearance.AppCompat.Widget.PopupMenu.Large" >
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+
+    <style name="changeBackgroundColor"  parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="colorSurface">@color/background_gray</item>
+    </style>
+
+
+
+</resources>

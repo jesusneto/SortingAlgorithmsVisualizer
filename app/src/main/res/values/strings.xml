@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SortingAlgorithmsVisualizer</string>
+    <string name="start_sort">Start Sort</string>
+    <string name="reset_array">Reset Array</string>
+</resources>
