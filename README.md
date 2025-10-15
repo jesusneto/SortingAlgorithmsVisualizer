@@ -4,4 +4,4 @@
     <b>An Android application that shows elements being ordered through three diferent sorting algorithms.  </b>
 </p>
 
-![bubblesort](https://github.com/user-attachments/assets/5fd7b575-9a63-432a-819b-f38eb2b95e1f)
+<img src="https://github.com/user-attachments/assets/5fd7b575-9a63-432a-819b-f38eb2b95e1f" width="400" alt="bubblesort"/>
