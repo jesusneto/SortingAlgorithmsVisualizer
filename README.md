@@ -17,9 +17,9 @@
       <p><b>Selectionsort</b></p>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5fd7b575-9a63-432a-819b-f38eb2b95e1f" width="310" alt="bubblesort"/>
+      <img src="https://github.com/user-attachments/assets/81b6d8fe-82bd-4e11-beb0-6eb110b7e901" width="310" alt="insertionsort"/>
       <br>
-      <p><b>Bubblesort</b></p>
+      <p><b>Insertionsort</b></p>
     </td>
   </tr>
 </table>
