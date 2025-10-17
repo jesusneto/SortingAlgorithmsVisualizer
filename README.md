@@ -4,7 +4,7 @@
     <b>An Android application that shows elements being ordered through three diferent sorting algorithms.  This application graphically represents the step-by-step process of different sorting algorithms, helping users understand how these algorithms work</b>
 </p>
 
-<h2 id="layout">🎨 Screenshots</h2>
+<h2 id="layout">📷 Screenshots</h2>
 
 <table align="center">
   <tr>
